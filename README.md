@@ -1,4 +1,7 @@
-
+# Project Title
+Victor Gamble's Portfolio - [Link](https://victorgamble.github.io/)
+# Project Scope
+This portfolio is meant to show case my skills and projects
 
 ## Copyright and License
 
